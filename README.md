@@ -101,10 +101,12 @@
 
 </div>
 
+<!--
+ GitHub 활동 통계(Total Stars Earned, Total commits, Total PRs, Total Issues, Contributed to-lastYear)를 나타냄
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dkdlxl99&show_icons=true&theme=tokyonight"/>
 </p>
-
+-->
 
 <!--
 **dkdlxl99/dkdlxl99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
