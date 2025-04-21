@@ -93,10 +93,11 @@
 
 <h2>🚀 Featured Projects</h2>
 
-- [협업툴 웹 서비스 (TeamVerse)](https://github.com/sunwoo9801/teamverse)  
-- [학사 관리 시스템 (우리대학)](https://github.com/dkdlxl99/PROJECT_LMS)
+<a href="https://github.com/dkdlxl99/teamverse">협업툴 웹 서비스 (TeamVerse)</a><br>
+<a href="https://github.com/dkdlxl99/PROJECT_LMS">학사 관리 시스템 (우리대학)</a>
 
 </div>
+
 
 
 <!--
