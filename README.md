@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
+-->
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dkdlxl99&style=flat-square&color=000075" alt=""/>
@@ -73,7 +75,7 @@
           </div>  <br> 
     <div align= "center">  </div> 
 
-    ---
+
     
 
 <div align="center">
@@ -84,7 +86,7 @@
 
 </div>
 
----
+
 
 
 <div align="center">
