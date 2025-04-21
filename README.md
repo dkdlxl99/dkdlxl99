@@ -73,7 +73,7 @@
          <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
           </div>  <br> 
     <div align= "center">  </div> 
-    </div>
+
     
     
 
