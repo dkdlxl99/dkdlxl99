@@ -23,7 +23,7 @@
 
     
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=000075&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=안녕하세요+:+끊임없이+배우고+실천하는+신입+개발자+변다혜입니다."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F5C0CA&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=안녕하세요+:+끊임없이+배우고+실천하는+신입+개발자+변다혜입니다."/>
 </p>
 
 <p align="center">
