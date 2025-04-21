@@ -37,8 +37,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,github)](https://skillicons.dev)
 
+
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dkdlxl99&show_icons=true&theme=tokyonight"/>
+</p>
+-->
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkdlxl99&layout=compact&theme=tokyonight"/>
 </p>
 
 ## 📫 Contact
