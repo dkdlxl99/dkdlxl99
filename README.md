@@ -47,8 +47,9 @@
 
 ## 📚 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkdlxl99&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkdlxl99&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ## 📫 Contact
 
