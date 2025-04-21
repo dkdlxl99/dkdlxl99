@@ -11,7 +11,7 @@
 </p>
 -->
 
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:76D1F4,100:89F7FE&height=200&section=header&text=Hi+I'm+변다혜&fontSize=40&fontColor=ffffff)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=76D1F4&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=안녕하세요+:+끊임없이+배우고+실천하는+신입+개발자+변다혜입니다."/>
@@ -30,9 +30,9 @@
 
 ## ✨ About Me
 
-- 🔥 풀스택 개발자 준비 (백엔드 비중 높음)
+- 🔥 풀스택 개발자 준비
 - 🌱 Spring Boot, React, MariaDB 중심으로 학습
-- 🛠️ 협업 툴 기반 웹 애플리케이션 개발 경험
+- 🛠️ 협업 툴 기반 웹 애플리케이션 및 학사 관리 시스템 개발 경험
 - 🎯 목표: 실용적이고 탄탄한 웹 서비스 개발
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,github)](https://skillicons.dev)
@@ -45,8 +45,9 @@
 -->
 
 
+## 📚 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkdlxl99&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkdlxl99&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </p>
 
 ## 📫 Contact
@@ -58,7 +59,7 @@
 ## 🚀 Featured Projects
 
 - [협업툴 웹 서비스 (TeamVerse)]([깃허브 레포지토리 링크](https://github.com/dkdlxl99/teamverse))
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:76D1F4,100:89F7FE&height=200&section=header&text=Hi+I'm+변다혜&fontSize=40&fontColor=ffffff)
+
 
 
 <!--
