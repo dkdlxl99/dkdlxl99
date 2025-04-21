@@ -21,6 +21,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F5ABC9&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=안녕하세요+:+끊임없이+배우고+실천하는+신입+개발자+변다혜입니다."/>
 </p>
 
+<!
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> 
@@ -32,8 +33,6 @@
 </p>
 
 ---
-
-## ✨ About Me
 <div align="center">
 
 <h2>✨ About Me</h2>
