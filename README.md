@@ -34,14 +34,17 @@
 ---
 
 ## ✨ About Me
-<p align="center">
+<div align="center">
+
+<h2>✨ About Me</h2>
 
 🔥 풀스택 개발자 준비  
 🌱 Spring Boot, React, MariaDB 중심으로 학습  
 🛠️ 협업 툴 기반 웹 애플리케이션 및 학사 관리 시스템 개발 경험  
 🎯 목표: 실용적이고 탄탄한 웹 서비스 개발
 
-</p>
+</div>
+
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -74,36 +77,25 @@
 
 ---
 
-## 📚 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkdlxl99&layout=compact"/>
-</p>
+<div align="center">
 
+<h2>📚 Top Languages</h2>
 
-<!--
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkdlxl99&layout=compact"/>
 
-## 📫 Contact
-<p align="center">
-
-- 📧 Email : 99ekgp@gmail.com  
-- 🌐 Portfolio :  
-- 💬 Blog : [Velog](https://dkdlxl99.tistory.com/)
-
-</p>
--->
-
+</div>
 
 
 ---
 
-## 🚀 Featured Projects
-<p align="center">
+<div align="center">
+
+<h2>🚀 Featured Projects</h2>
 
 - [협업툴 웹 서비스 (TeamVerse)](https://github.com/dkdlxl99/teamverse)  
 - [학사 관리 시스템 (우리대학)](https://github.com/dkdlxl99/PROJECT_LMS)
 
-</p>
+</div>
 
 
 <!--
