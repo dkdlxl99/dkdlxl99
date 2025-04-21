@@ -1,3 +1,4 @@
+<!--
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=76D1F4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=안녕하세요+:+끊임없이+배우고+실천하는+신입+개발자+변다혜입니다.)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
@@ -8,6 +9,24 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dkdltl99&style=flat-square&color=blue" alt=""/>
 </p>
+-->
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=76D1F4&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=안녕하세요+:+끊임없이+배우고+실천하는+신입+개발자+변다혜입니다."/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dkdlxl99&style=flat-square&color=blue" alt=""/>
+</p>
+
 
 ## ✨ About Me
 
@@ -19,7 +38,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,github)](https://skillicons.dev)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkdltl99&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dkdlxl99&show_icons=true&theme=tokyonight"/>
 </p>
 
 ## 📫 Contact
