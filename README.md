@@ -24,8 +24,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dkdlxl99&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=dkdlxl99&style=flat-square&color=000075" alt=""/>
 </p>
+
 
 
 ## ✨ About Me
@@ -59,7 +60,7 @@
 ## 🚀 Featured Projects
 
 - [협업툴 웹 서비스 (TeamVerse)]([깃허브 레포지토리 링크](https://github.com/dkdlxl99/teamverse))
-
+- [학사 관리 시스템 (우리대학)]([깃허브 레포지토리 링크](https://github.com/dkdlxl99/PROJECT_LMS))
 
 
 <!--
