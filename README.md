@@ -92,9 +92,12 @@
 <div align="center">
 
 <h2>🚀 Featured Projects</h2>
-
 <a href="https://github.com/dkdlxl99/teamverse">협업툴 웹 서비스 (TeamVerse)</a><br>
-<a href="https://github.com/dkdlxl99/PROJECT_LMS">학사 관리 시스템 (우리대학)</a>
+<span>Spring Boot · React · MariaDB 기반 협업 플랫폼</span><br><br>
+
+<a href="https://github.com/dkdlxl99/PROJECT_LMS">학사 관리 시스템 (우리대학)</a><br>
+<span>Spring Boot · Thymeleaf 기반 학사 관리 웹 애플리케이션</span>
+
 
 </div>
 
