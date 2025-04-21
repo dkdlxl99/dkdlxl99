@@ -13,15 +13,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000075,100:89F7FE&height=200&section=header&text=Hi+I'm+변다혜&fontSize=40&fontColor=ffffff)
 -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Dahye's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Dahye's GitHub">
+</p>
 
-
-
-
-<div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Dahye's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Dahye's GitHub">
-    </div>
-
-    
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F5ABC9&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=안녕하세요+:+끊임없이+배우고+실천하는+신입+개발자+변다혜입니다."/>
 </p>
@@ -36,41 +31,51 @@
   <img src="https://komarev.com/ghpvc/?username=dkdlxl99&style=flat-square&color=000075" alt=""/>
 </p>
 
-
-
+---
 
 ## ✨ About Me
-
-- 🔥 풀스택 개발자 준비
-- 🌱 Spring Boot, React, MariaDB 중심으로 학습
-- 🛠️ 협업 툴 기반 웹 애플리케이션 및 학사 관리 시스템 개발 경험
-- 🎯 목표: 실용적이고 탄탄한 웹 서비스 개발
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,github)](https://skillicons.dev)
-
-
-<!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkdlxl99&show_icons=true&theme=tokyonight"/>
-</p>
--->
 
+🔥 풀스택 개발자 준비  
+🌱 Spring Boot, React, MariaDB 중심으로 학습  
+🛠️ 협업 툴 기반 웹 애플리케이션 및 학사 관리 시스템 개발 경험  
+🎯 목표: 실용적이고 탄탄한 웹 서비스 개발
+
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,github" />
+  </a>
+</p>
+
+---
 
 ## 📚 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkdlxl99&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkdlxl99&layout=compact"/>
+</p>
 
-
+---
 
 ## 📫 Contact
+<p align="center">
 
-- 📧 Email : 99ekgp@gmail.com
-- 🌐 Portfolio :
+- 📧 Email : 99ekgp@gmail.com  
+- 🌐 Portfolio :  
 - 💬 Blog : [Velog](https://dkdlxl99.tistory.com/)
 
-## 🚀 Featured Projects
+</p>
 
-- [협업툴 웹 서비스 (TeamVerse)]([깃허브 레포지토리 링크](https://github.com/dkdlxl99/teamverse))
-- [학사 관리 시스템 (우리대학)]([깃허브 레포지토리 링크](https://github.com/dkdlxl99/PROJECT_LMS))
+---
+
+## 🚀 Featured Projects
+<p align="center">
+
+- [협업툴 웹 서비스 (TeamVerse)](https://github.com/dkdlxl99/teamverse)  
+- [학사 관리 시스템 (우리대학)](https://github.com/dkdlxl99/PROJECT_LMS)
+
+</p>
 
 
 <!--
