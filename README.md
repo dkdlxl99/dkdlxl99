@@ -37,7 +37,7 @@
 ---
 <div align="center">
 
-<h2>✨ About Me</h2>
+<h2>About Me</h2>
 
 🔥 풀스택 개발자 준비  
 🌱 Spring Boot, React, MariaDB 중심으로 학습  
@@ -68,7 +68,7 @@
           <br/></div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:99ekgp@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:99ekgp@gmail.com"> </a>
          <a href=https://dkdlxl99.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://dkdlxl99.tistory.com/"> </a>
          <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-<h2>📚 Top Languages</h2>
+<h2>Top Languages</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkdlxl99&layout=compact"/>
 
@@ -91,11 +91,11 @@
 
 <div align="center">
 
-<h2>🚀 Featured Projects</h2>
+<h2>Featured Projects</h2>
 <a href="https://github.com/dkdlxl99/teamverse">협업툴 웹 서비스 (TeamVerse)</a><br>
 <span>Spring Boot · React · MariaDB 기반 협업 플랫폼</span><br><br>
 
-<a href="https://github.com/dkdlxl99/PROJECT_LMS">학사 관리 시스템 (우리대학)</a><br>
+<a href="https://github.com/MIN-des/PROJECT_LMS">학사 관리 시스템 (우리대학)</a><br>
 <span>Spring Boot · Thymeleaf 기반 학사 관리 웹 애플리케이션</span>
 
 
