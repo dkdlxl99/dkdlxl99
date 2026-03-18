@@ -82,9 +82,10 @@
 </p>
 
 <br>
-
+<!--
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dkdlxl99&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkdlxl99&layout=compact&theme=rose_pine&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
+--
